@@ -10,7 +10,7 @@ features.openapi:
   sidebarLinks:
     beforeInfo:
       - label: Chaos Engineering
-        link: ./docs/chaos-index.html
+        link: https://github.com/sagarkrsd/openapi-starter/blob/dev-api/docs/chaos-index.html
         target: _blank
   htmlTemplate: ./docs/index.html
   theme:
