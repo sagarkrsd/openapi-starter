@@ -20,6 +20,8 @@ tags:
     description: Operations about users.
   - name: Tag
     description: This is a tag description.
+  - name: CHAOS
+    description: This is a CHAOS engineering doc.
 servers:
   - url: 'https://{tenant}/api/v1'
     variables:
