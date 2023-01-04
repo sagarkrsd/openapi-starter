@@ -10,15 +10,15 @@ features.openapi:
   sidebarLinks:
     beforeInfo:
       - label: Chaos Engineering
-        link: ./docs/chaos-index.html
+        link: ./chaos-index.html
         target: _blank
       - label: Chaos Engineering2
-        link: ../docs/chaos-index.html
+        link: chaos-index.html
         target: _blank
       - label: Chaos Engineering3
-        link: ./docs/index.html
+        link: index.html
       - label: Chaos Engineering4
-        link: ../docs/index.html
+        link: ./index.html
         target: _blank
   htmlTemplate: ./docs/index.html
   theme:
