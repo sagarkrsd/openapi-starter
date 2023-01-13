@@ -11,7 +11,6 @@ features.openapi:
     beforeInfo:
       - label: Chaos Engineering
         link: ./chaos-index.html
-        target: _blank
       - label: Chaos Engineering2
         link: chaos-index.html
         target: _blank
